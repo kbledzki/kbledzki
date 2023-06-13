@@ -16,6 +16,8 @@ I'm a Java Developer from Poland.
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=%236DB33F)
+![JUnit5](https://img.shields.io/badge/JUnit5-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=%2300f)
 ![REST](https://img.shields.io/badge/REST-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
