@@ -31,9 +31,9 @@ I'm a Java Developer from Poland.
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://www.linkedin.com/in/krzysztof-bledzki/#gh-light-mode-only)
 ### &nbsp;
 <div align="center">
-<a href="https://git.io/streak-stats">
+<!-- <a href="https://git.io/streak-stats">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbledzki&layout=compact&theme=nord&hide_border=true&langs_count=8"/>
 </a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kbledzki)](https://git.io/streak-stats) -->
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kbledzki&style=flat-square&color=blue" alt=""></p>
