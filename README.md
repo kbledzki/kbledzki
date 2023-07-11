@@ -36,4 +36,4 @@ I'm a Java Developer from Poland.
 </a>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kbledzki)](https://git.io/streak-stats) -->
 
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kbledzki&style=flat-square&color=blue" alt=""></p>
