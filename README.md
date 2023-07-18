@@ -4,7 +4,7 @@
 
 ### 👷 &nbsp;About Me :
 I'm a Java Developer from Poland.
-- 🔭  I’m currently looking for a first job as a Software Engineer **(check out my tech stack)**.
+- 🔭  I’m currently looking for a job as a Software Engineer **(check out my tech stack)**.
 - 👀  I am constantly developing my skills to join the development team.
 - 🥷  Checking Java Weekly ﻿Reviews to upgrade my skills and find out new interesting cases.
 - 💥  I am constantly developing my portfolio by creating projects and learning about new technologies
